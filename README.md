@@ -19,3 +19,6 @@
 -----
 ## Библиотеки
 *pandas, numpy, seaborn, matplotlib, scipy*
+
+## Статус
+завершен
